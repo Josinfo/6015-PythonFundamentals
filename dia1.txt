@@ -1,0 +1,97 @@
+https://520.salas4linux.com.br
+
+==============================================================
+
+https://github.com/lucascbeyeler/6015-PythonFundamentals/tree/master
+
+==============================================================
+
+https://www.codecademy.com/
+
+https://www.pycursos.com/python-para-zumbis/
+
+https://www.udemy.com
+
+==============================================================
+
+https://www.jetbrains.com/pycharm/
+
+https://atom.io/
+
+==============================================================
+
+
+Pip install / pip uninstall / pip search / pip freeze (Versões dos pacotes que estão instalados no momento) 
+
+Pip freeze > requirements.txt  (gera arquivos de requerimentos para utilização do projeto) 
+
+pip install –r requirements.txt 
+
+Pip install -- upgrade pacote 
+
+Pip install pipreqs (gerador de requerimentos)
+
+apt-get update; apt-get install python-virtualenv
+
+virtualenv aula4linux
+
+source aula4linux/bin/activate (env activate)
+
+
+==============================================================
+
+#JosinfoTIP "lets create a zap group to disscuss it "
+
+https://pypi.python.org/pypi/wget
+
+grupo no telegram... tem CLI - https://t.me/joinchat/CGw_p0NKgZEbNW4fiKqgRw 
+
+
+============================================================
+1) De acordo com a lista abaixo:
+
+[{"indice1":1,"indice2":2},"feijão","batata",[5,6,7]]
+
+a) Imprima o conteúdo do "indice1"
+
+b) Remova o "feijão" da lista
+
+c) Inclua o valor inteiro 8 na lista numérica
+
+d) Inclua o valor flutuante do PI (3,14) na lista principal
+
+e) Inclua um dicionário de produtos de mercado na sua lista principal
+
+f) Inclua o indice3 no dicionário de indices
+
+============================================================
+
+2) Crie uma variável e altere ela de acordo com os passos abaixo - DEVE IMPRIMIR O TIPO DE CADA UMA APÓS A ALTERAÇÃO (type):
+
+a) Coloque nela um tipo numérico;
+
+b) Coloque nela um tipo booleano;
+
+c) Coloque nela um tipo String com aspas simples;
+
+d) Coloque nela um tipo String com aspas duplas;
+
+e) Coloque uma lista dentro dela;
+
+f) Coloque uma tupla dentro dela;
+
+g) Inclua um novo valor nessa tupla;
+
+h) Coloque um dicionario dentro dela;
+
+==============================================================
+
+3) Com o texto abaixo, imprima somente a segunda frase - DICA: Existem 165 caracteres na frase abaixo:
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id quam et odio tempor fermentum. Proin tortor sapien, vestibulum quis congue in, placerat at elit.
+
+
+
+
+
+
