@@ -1,0 +1,62 @@
+	520.salas4linux.com.br
+
+apt-get update; apt-get install python-virtualenv
+
+virtualenv aula4linux
+
+source python34linux/bin/activate
+
+
+==========================================================
+
+1) Crie um programa utilizando a estrutura do while que execute as seguintes operações:
+
+a) Crie três variáveis chamadas OLD, NEW, MAX cujo conteúdo é 0
+
+a) Solicite para o usuário um número de 1 a 10 e armazene dentro de NEW
+   - Caso seja informado um valor vazio, use o número 5 como valor da variável
+
+b) Confira se o valor informado pelo usuário é igual a OLD
+
+   - Se for igual imprima na tela a mensagem "São iguais"
+     Some os dois valores com o resultado de MAX
+     Confira se o valor de MAX é igual a 100 ou se for acima de 100
+       -> Se o resultado de MAX for igual, imprima a mensagem "Valor máximo atingido"
+       -> Se for acima, imprima mensagem "Ultrapassado o limite. Encerrando o programa"
+
+   - Se não for igual, porém é maior que OLD, imprima a mensagem: "NEW maior que OLD"
+     Some os dois valores e subtraia do resultado de MAX
+     Jogue o valor de NEW dentro da variável OLD
+
+   - Se não for igual, porém é igual a 7, imprima a mensagem: "NEW e OLD são diferentes, porém NEW é igual a 7"
+     Subtraia NEW pelo OLD e substitua o MAX completamente por esse novo resultado
+
+c) Imprima o valor de MAX em cada execução
+
+d) O programa deve ser encerrado quando MAX for acima de 100
+
+===============================================================
+
+1 - ) Criar função para validar usuario e validar senha
+
+2 - ) Ambas as funções devem receber como parâmetro o login e a senha
+
+3 - ) Retorne o resultado da comparação através de variaveis globais
+
+4 - ) Libere o acesso somente se o usuário informar o login e senha certos
+
+================================================================
+
+Crie as seguintes funções e execute a que o usuário solicitar:
+
+a) func1 deve construir uma lista de numeros de 1 a 100
+
+b) func2 deve imprimir os números pares de 1 a 100 recebidos pela func1
+
+c) func3 deve somar a String "Número do Exercício" com o Inteiro "14"
+
+d) func4 deve acessar a variável global opt e alterar para '5' e imprimir resultado
+
+
+
+
